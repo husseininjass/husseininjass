@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @husseininjass
+- 👋 Hi, I’m hussein injass
 - 👀 I’m interested in game development and web development 
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on many projects
