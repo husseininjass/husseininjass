@@ -1,6 +1,6 @@
 - 👋 Hi, I’m hussein injass
 - 👀 I’m interested in game development and web development 
-- 🌱 I’m currently learning full stack web development
+- 🌱 Am a full stack web development
 - 📫 How to reach me :-
 - linked in :https://www.linkedin.com/in/hussein-injass-4aa933228/
 - E-mail : hussein.husam7@gmail.com
